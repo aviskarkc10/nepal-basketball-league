@@ -4,9 +4,9 @@ A look at some of the interesting data points from NBL 2019.
 
 ## Analysis
 
-- [Player Analysis]("./Player%20Analysis.md")
+- [Player Analysis](./Player%20Analysis.md)
 
 ## Others
 
-- [data]("./data")
-- [notebooks]("./notebooks")
+- [data](./data)
+- [notebooks](./notebooks)
