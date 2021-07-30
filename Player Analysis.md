@@ -6,7 +6,7 @@
 <img src='./images/3 point shooting.jpg' />
 
 
-Ayush Singh and Sadhish Pradhan standout with their 3 point shooting. Combining volume with efficiency. They are the only players to make more than 40% of threes among players who took more than 30 threes.
+Ayush Singh and Sadhish Pradhan standout with their 3 point shooting. Combining volume with efficiency. They are the only players to make more than 40% of threes among players who took more than 30 threes in the season.
 
 Saurav Shrestha and Rabin Khatri may not have the efficiency of the aforementioned two players but they are well above the league average.
 
