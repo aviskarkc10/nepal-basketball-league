@@ -79,3 +79,11 @@ He's taken the mantra '3s are greater than 2s' to his heart, and we can't really
 <img src='./player_scoring_pie/Ram Krishna Ghatane.jpg' />
 
 If you have watched Ghatane play, you will see a very similar pattern. He posts up at the right block, and when fed the ball, makes a spin move to get an easy shot at the bucket. He is the most efficient 2 point scorers in the league for players who have taken more than 75 shots and almost all of his shots come from there. He only took one shot from 3 and actually made it, but it is on the inside, where the Army man earns his money.
+
+## Frontcourt dominance
+
+<img src='./images/rebounds vs blocks.jpg'>
+
+Bikram Joshi, a legend of Nepal basketball, was very important to Times winning the league and he tops both the blocks and rebounding chart. Ajay Kushawa was also a monster on the inside for swatting shots away.
+
+There really aren't rebounding/blocks numbers that stand out after this. Probably owing to the lack of height difference in Nepal's game where usually players are around similar height and stature.
